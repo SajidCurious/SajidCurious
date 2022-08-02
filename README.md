@@ -31,8 +31,8 @@ Hey there 👋 I am a Front-end web developer from India. I like to make useful 
 <a href="https://twitter.com/@sajid_curious" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/@sajid_curios?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> &nbsp;&nbsp;
   <br>
-<a href="https://github.com/souravcodeweb" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/souravcodeweb?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<a href="https://github.com/SajidCurious" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SajidCurious?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravcodeweb)](https://github.com/anuraghazra/github-readme-stats)
 
