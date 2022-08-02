@@ -34,14 +34,14 @@ src="https://img.shields.io/twitter/follow/@sajid_curios?logo=twitter&style=for-
 <a href="https://github.com/SajidCurious" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SajidCurious?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravcodeweb)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidCurious)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=souravcodeweb&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidCurious&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=souravcodeweb)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SajidCurious)  
 
-![GitHub metrics](https://metrics.lecoq.io/souravcodeweb)  
+![GitHub metrics](https://metrics.lecoq.io/SajidCurious)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=souravcodeweb)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SajidCurious)  
 
-![Profile views](https://gpvc.arturio.dev/souravcodeweb)  
+![Profile views](https://gpvc.arturio.dev/SajidCurious)  
