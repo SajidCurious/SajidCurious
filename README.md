@@ -21,10 +21,8 @@ Hey there 👋 I am a Front-end web developer from India. I like to make useful 
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/%E2%9A%A1sourav-mandal%E2%9A%A1-390361218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
-<a href = "https://twitter.com/sourav_code"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
-<a href = "https://www.instagram.com/souravcode/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="30px"/></a>
-<a href = "https://www.youtube.com/channel/UC34QqM-x6iaOD9ikoch9FAg/about"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30px"/></a>
+<a href = "https://www.linkedin.com/in/mohammed-sajid-6144a01b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
+<a href = "https://twitter.com/@sajid_curious"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 </p>
 
 
