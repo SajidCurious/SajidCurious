@@ -1,20 +1,19 @@
-### Hi there 👋, My Name  is Sourav Mandal
-#### I am Front-end & Back-end web developer
+### Hi there 👋, My Name  is Mohammed Sajid
+#### I am Front-end developer
 ![gitback](https://user-images.githubusercontent.com/87852919/167628453-00bf380b-0880-469e-b42c-efeb1af86e29.png)
 
 
 
-Hey there 👋 I am a full-stack web developer from India. I always like to use advanced Technology for creating useful products. and I like to use advanced programming languages like python, java, c++. etc.. and I love machine learning.
+Hey there 👋 I am a Front-end web developer from India. I like to make useful applications that makes impact and my tech stack is HTML, CSS and Javascript.
 
 ## 🚀 Languages and Tools:
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 <br/>
 
-- 🔭 I’m currently working on Open source project 
-- 🌱 I’m currently learning Blockchain Technology 
+- 🔭 I’m currently working on normal projects using Javascript
 - 👯 I’m looking to collaborate on Twitter 
-- 💬 Ask me about Any programming related question 
+- 💬 I love to teach what i learn.
 - 📫 How to reach me: Twitter 
 
 
