@@ -4,7 +4,7 @@
 
 
 
-Hey there 👋 I am a Front-end web developer from India. I like to make useful applications that makes impact and my tech stack is HTML, CSS and Javascript.
+Hey there 👋 I am a Front-end web developer from India. I like to make useful applications that makes impact and my tech stack is HTML, CSS and Javascript and ReactJs
 
 ## 🚀 Languages and Tools:
 
