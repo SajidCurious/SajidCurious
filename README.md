@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sajid</h1>
-<h3 align="center">Hey there 👋 I am a Front-end web developer from India. I like to make useful applications that makes impact and my tech stack is HTML, CSS and Javascript, ReactJs, Tailwind, Git, GitHub</h3>
+<h3 align="center">Hey there 👋 I am a Front-end web developer from India. I like to make useful applications that makes impact and my tech stack is HTML, CSS and Javascript, ReactJs, Tailwind, Git and GitHub</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/87852919/167628453-00bf380b-0880-469e-b42c-efeb1af86e29.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidcurious&label=Profile%20views&color=0e75b6&style=flat" alt="sajidcurious" /> </p>
@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://sajidcurious.hashnode.dev/](https://sajidcurious.hashnode.dev/)
 
-- 💬 Ask me about **HTML $ CSS, JAVASCRIPT, REACT, Tailwind, Git, GitHub**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, Tailwind, Git and GitHub**
 
 - 📫 How to reach me **sajidcurious9@gmail.com**
 
